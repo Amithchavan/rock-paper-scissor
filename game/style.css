@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#title{
+    background-color: blue;
+    height: 5rem;
+    line-height: 5rem;
+    color: aqua;
+}
+body{
+    background-color: aqua;
+}
